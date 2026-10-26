@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Han Bao</h1>
 
 - 🔭 I'm currently pursuing my master's degree at SUSTech.
-- 🤔 Research interests: **Robot Mobility, Reinforcement Learning**
+- 🤔 Research interests: **Robot Mobility, Robot Interaction, Reinforcement Learning**
 
 <h3 align="left">Connect with me: hillbao77@gmail.com</h3>
 <p align="left">
